@@ -1,22 +1,22 @@
-# 🍰 Heavenly Bakes
+ 🍰 Heavenly Bakes
 
 Heavenly Bakes is a beautifully designed bakery website built using **HTML, CSS, and JavaScript**.  
 The website showcases a variety of cakes, pastries, and baked products with an elegant UI and smooth user experience.
 
 ---
 
-## ⭐ Features
+##  Features
 
-- 🎨 **Attractive Home Page** with bakery-themed design  
-- 🧁 **Product Showcase** (cakes, pastries, cookies, etc.)  
-- 📱 **Fully Responsive** layout for all devices  
-- 🧭 **Smooth Navigation** between sections  
-- 📬 **Contact / Enquiry Form**  
-- ✨ Clean animations and user-friendly interface
+-  **Attractive Home Page** with bakery-themed design  
+-  **Product Showcase** (cakes, pastries, cookies, etc.)  
+-  **Fully Responsive** layout for all devices  
+-  **Smooth Navigation** between sections  
+-  **Contact / Enquiry Form**  
+-  Clean animations and user-friendly interface
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **HTML5**  
 - **CSS3** (Animations, Responsive Design)  
@@ -30,7 +30,7 @@ To create a modern and visually appealing bakery website that displays products 
 
 ---
 
-## 📷 website
+## website
 <img width="1366" height="768" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/f5182852-7a1c-46e6-9fe1-108af1d49dfc" />
 
 
